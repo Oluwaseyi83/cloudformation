@@ -1,0 +1,15 @@
+AWSTemplateFormatVersion: 2010-09-09
+
+Description: "EC2 instance for our development environment"
+
+Metadata: 
+
+Parameters: 
+
+Mappings: 
+
+Conditions: 
+
+Resources: 
+
+Outputs:
