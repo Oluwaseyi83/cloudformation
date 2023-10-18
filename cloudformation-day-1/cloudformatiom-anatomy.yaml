@@ -2,14 +2,14 @@ AWSTemplateFormatVersion: 2010-09-09
 
 Description: "EC2 instance for our development environment"
 
-Metadata: 
+Metadata: {}
 
-Parameters: 
+Parameters: {}
 
-Mappings: 
+Mappings: {}
 
-Conditions: 
+Conditions: {}
 
-Resources: 
+Resources: {}
 
-Outputs:
+Outputs: {}
